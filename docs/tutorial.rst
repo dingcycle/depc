@@ -106,7 +106,7 @@ probes.
 
 **Create the Source**
 
-The first step is to declare a **Source** : it’s basically an URL and a
+The first step is to declare a **Source** : it’s basically a URL and a
 token used to communicate with the Timeseries database.
 
 DepC only supports **OpenTSDB** and **Warp10** databases for now. In this
